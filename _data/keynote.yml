@@ -1,0 +1,15 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# redisconf
+- project: RedisConf
+  role: Guest Speaker
+  duration: 2021
+  url: "https://www.youtube.com/watch?v=g_0C9jPDLgw"
+  description: As a DevOps manager at Unity, I spoke at RedisConf keynote on how the platform team's migration to a Redis Enterprise GKE architecture allowed Unity to scale its user base with enhanced resiliency, decreased load management overhead, and high-availability.
+# # Springfield Community Outreach Group
+# - project: Springfield Community Outreach Group
+#   role: Co-Founder & Organizer
+#   duration: 2007 &mdash; Present
+#   # url: "#"
+#   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
