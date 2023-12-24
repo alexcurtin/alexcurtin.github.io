@@ -1,15 +1,15 @@
 # Jobs
 # Unity
 - company: Unity Technologies
-  position: Senior Manager, Cloud Services & Infrastructure
+  position: Senior Manager, Cloud Infrastructure & Services
   duration: Oct, 2018 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: Lead the Cloud Infrastructure & Services organization, which comprised of three sub teams focused on Platform Engineering, Network Engineering and FinOps.	<ul class="resume-item-list"><li>Senior engineering manager of the platform team, helping developers build, maintain and monitor their services in Google Cloud, Azure and AWS</li><li>Migrated Unity Ads business into Google Cloud</li><li>Identified and helped reduce cloud spend by +$30M through cost optimization tooling</li><li>Established clear service ownership and cost allocation for shared infrastructure microservices, improving transparency and accountability within the organization</li><li>Built entire new developer paved road experience in Azure, including a robust onboarding system utilizing internal Go based tools, Terraform and Backstage</li><li>Drove all quarterly planning and business goals, working with TPM teams to deliver consistent, on-time projects to reduce developer friction and improve time to production</li><li>Led the strategy for Cloud Infrastructure & Services, with a focus on driving business OKRs through modernization of key infrastructure and tools</li><li>Implemented a full Infrastructure as Code (IaC) model, enhancing efficiency and reducing errors in the deployment and management of infrastructure</li><li>Seasoned Cloud Native and Kubernetes expert, adept at modernization, migrations and running microservices at scale providing upward of 355M in revenue</li><li>Fostered the career growth of team members, guided them to promotions and skill enhancements</li></ul>
 
 # Westfield/Onemarket
 - company: Onemarket
   position: Lead Production Engineer
   duration: Jun, 2017 &mdash; Oct, 2018
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaningful. The person reading just needs enough to want to talk to you more about your experience.<ul><li>Built out brand new environment on Google Cloud with Kubernetes to run Go, Java and Node microservices and routing/API layer</li><li>Built out Kong API proxy to ingest and route traffic to microservices</li><li>Configured and deployed Enterprise Splunk Cluster for the ingestion of logs from all areas of the stack</li><li>Migrated legacy platform from Heroku and AWS to Google Cloud on Kubernetes</li></ul>
 
 # Westfield/Onemarket
 - company: Westfield Retail Solutions

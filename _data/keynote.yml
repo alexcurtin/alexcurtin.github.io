@@ -3,7 +3,7 @@
 
 # redisconf
 - project: RedisConf
-  role: Guest Speaker
+  role: Guest Keynote Speaker
   duration: 2021
   url: "https://www.youtube.com/watch?v=g_0C9jPDLgw"
   description: As a DevOps manager at Unity, I spoke at RedisConf keynote on how the platform team's migration to a Redis Enterprise GKE architecture allowed Unity to scale its user base with enhanced resiliency, decreased load management overhead, and high-availability.
