@@ -7,9 +7,9 @@
   duration: 2021
   url: "https://www.youtube.com/watch?v=g_0C9jPDLgw"
   description: As a DevOps manager at Unity, I spoke at RedisConf keynote on how the platform team's migration to a Redis Enterprise GKE architecture allowed Unity to scale its user base with enhanced resiliency, decreased load management overhead, and high-availability.
-# # Springfield Community Outreach Group
-# - project: Springfield Community Outreach Group
-#   role: Co-Founder & Organizer
-#   duration: 2007 &mdash; Present
-#   # url: "#"
-#   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Google Next 2024
+- project: Google Next 2024
+  role: Breakout Session Speaker
+  duration: 2024
+  url: "https://cloud.withgoogle.com/next"
+  description: I spoke with Google Cloud product leaders for Google Kubernetes Engine on how Unity best utilizes GKE in an efficient, secure, reliable and cost effective way.
