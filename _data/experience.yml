@@ -11,12 +11,6 @@
   duration: Jun, 2017 &mdash; Oct, 2018
   summary: Lead production engineer responsible for Onemarket's cloud infrastructure, from development to production. <ul><li>Built out brand new environment on Google Cloud with Kubernetes to run Go, Java and Node microservices and routing/API layer</li><li>Built out Kong API proxy to ingest and route traffic to microservices</li><li>Configured and deployed Enterprise Splunk Cluster for the ingestion of logs from all areas of the stack</li><li>Migrated legacy platform from Heroku and AWS to Google Cloud on Kubernetes</li><li>Leveraged KIND and docker-compose for quick and streamlined development environment provisioning for developers and QA</li></ul>
 
-# Westfield/Onemarket
-- company: Westfield Retail Solutions
-  position: Production Engineer
-  duration: Mar, 2016 &mdash; Jun, 2017
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
 # Tallie
 - company: Tallie
   position: DevOps Engineer
