@@ -1,15 +1,15 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# redisconf
-- project: RedisConf
-  role: Guest Keynote Speaker
-  duration: 2021
-  url: "https://www.youtube.com/watch?v=g_0C9jPDLgw"
-  description: As a DevOps manager at Unity, I spoke at RedisConf keynote on how the platform team's migration to a Redis Enterprise GKE architecture allowed Unity to scale its user base with enhanced resiliency, decreased load management overhead, and high-availability.
 # Google Next 2024
 - project: Google Next 2024
   role: Breakout Session Speaker
   duration: 2024
   url: "https://youtu.be/kOjgD377u_s"
   description: I spoke with Google Cloud product leaders for Google Kubernetes Engine on how Unity best utilizes GKE in an efficient, secure, reliable and cost effective way.
+# redisconf
+- project: RedisConf
+  role: Guest Keynote Speaker
+  duration: 2021
+  url: "https://www.youtube.com/watch?v=g_0C9jPDLgw"
+  description: As a DevOps manager at Unity, I spoke at RedisConf keynote on how the platform team's migration to a Redis Enterprise GKE architecture allowed Unity to scale its user base with enhanced resiliency, decreased load management overhead, and high-availability.
