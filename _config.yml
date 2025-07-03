@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar: "true"
 resume_name: "Alex Curtin"
-resume_title: "Senior Manager, Cloud Services & Infrastructure"
+resume_title: "Senior Engineering Manager, Cloud Services & Infrastructure"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email: "alexcurtin@gmail.com"
